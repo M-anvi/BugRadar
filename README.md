@@ -163,7 +163,3 @@ Open the project in VS Code or Jupyter Notebook and execute the notebooks in thi
 B.Tech – Computer Science and Engineering
 
 GitHub: [M-anvi](https://github.com/M-anvi)
-
----
-
-⭐ If you find this project interesting, feel free to explore the repository!
